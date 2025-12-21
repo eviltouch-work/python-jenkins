@@ -2,7 +2,7 @@ def odd():
   print("it is odd number")
 
 def even():
-  print("it is odd number")
+  print("it is even number")
 
 def test(num):
   if num%2==0:
