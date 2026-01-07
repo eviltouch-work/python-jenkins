@@ -10,5 +10,5 @@ def test(num):
   else:
     odd()
 
-test(7)
+test(14)
   
