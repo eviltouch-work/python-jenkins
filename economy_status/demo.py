@@ -17,4 +17,4 @@ def test(salary):
   else:
     poor()
 
-test(200000)
+test(20000)
